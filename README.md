@@ -1,6 +1,6 @@
 ### INSRUCTIONS TO RUN
 
-1. under the DirectedGraphPathFinder/ directory, run 'ant'
+1. under the DirectedGraphPathFinder/ directory, run `ant`
 2. `java -cp DirectedGraphPathFinder.jar pathfinder.PathFinder <path to file>`
 3. in the input file, you can specify any graph format similar to `"AB9, BC7, CD7, DC5, DE5, AD7, CE3, EB5, AE8"`
 in the file; but please use `'A','B'..'E'..` etc as graph node, as those are used in the main class
