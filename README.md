@@ -1,4 +1,4 @@
-###INSRUCTIONS TO RUN
+### INSRUCTIONS TO RUN
 
 1. under the DirectedGraphPathFinder/ directory, run 'ant'
 2. `java -cp DirectedGraphPathFinder.jar pathfinder.PathFinder <path to file>`
@@ -6,7 +6,7 @@
 in the file; but please use `'A','B'..'E'..` etc as graph node, as those are used in the main class
 
  
-###PROGRAM DESIGN
+### PROGRAM DESIGN
 
 1. Directed graph: 
 	it is using a data structure similar to adjacent list for storing graph node and edges; 
